@@ -25,3 +25,20 @@ For this project I chose to adopt highly reusable functions for transformation o
 # How did iteration factor into your development?
 
 For the entire project I stuck with finishing only one item or feature at a time and perfecting it before moving on. A good example of this philosophy would be dealing with the orthograpgic camera POV to line up properly. I had spent around an hour perfecting that specific view angle so I didn't feel the need to make changes down the line. 
+
+# How has your approach to developing code evolved throughout the milestones, which led you to the project's completion?
+
+At first I was putting next to no descriptive comments, and after the third milestone I realized that I had to fix it ASAP or I would be ruined for the final project. By the end of this course I was able to write minimal comments, but highly detailed ones where I knew for a fact what the code below was doing. 
+
+# How can computer science help me in reaching my goals?
+
+# How do computational graphics and visualizations give new knowledge and skills that can be applied in your future educational pathway?
+
+Computational graphics helped me to reason with very math heavy transformations and coordinate systems for rendering 3D scenes. These skills helped drastically to improve my problem-solving skills, and will drastically assist down the line in more full-stack style courses or projects I work on. 
+
+# How do computational graphics and visualizations give you new knowledge and skills that can be applied to your future professional pathway?
+
+Professionally these skills will be useful in areas such as simulations and data visualization. Additionally, the experience of developing these complex systems and working with OpenGL as a library will help build adaptability for any future development I work on whether in the CS field or another. 
+
+
+
