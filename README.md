@@ -12,7 +12,7 @@
 
 * I chose to follow a more iterative design process. First off I sketched a very rough concept of the final scene. After finalizing the layout, I decided to start thinking about other items such as textures and lighting. These two pieces will help to add proper "life" and character to the scene instead of some bland lighting with no reflections. I also modularized any of the code and functions I added to make it easier down the line to adjust or reuse items as needed. 
 
-3.  **How could tactics from your design approach be applied in future work? **
+3.  **How could tactics from your design approach be applied in future work?**
 
 * Modular design, visual planning, and incremental refinements can be applied to basically everything one does in their programming careers or personal projects. Breaking down a requirement document into smaller and manageable steps that are easily testable and modular will be useful in any stage of the SDLC. 
 
